@@ -1,0 +1,50 @@
+.relative {
+    display: flex;
+    position: relative;
+    width: 530px;
+    height: 535px;
+    color: white;
+    margin-bottom: 60px;
+    margin: 50px auto;
+  }
+  .section-image {
+    width: 100%;
+    border-radius: 40px;
+
+  }
+  .absolute {
+    position: absolute;
+    top: 190px;
+    left: 10px;
+  }
+  .heading {
+    line-height: 30px;
+    margin-bottom: -10px;
+  }
+  .rate {
+    font-size: 10px;
+    margin-bottom: 30px;
+  }
+  .subtittle {
+    font-size: 10px;
+    line-height: 20px;
+    margin-bottom: 15px;
+  }
+  .relative button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  .apply-button {
+    background: orange;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 30px;
+    color: white;
+  }
+  .view-course-button {
+    padding: 15px 15px;
+    border: none;
+    border-radius: 30px;
+    color: orange;
+  }
+  
